@@ -1,0 +1,47 @@
+span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.active {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  background: purple;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.app {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 500px;
+  padding: 50px 80px;
+  background: wheat;
+}
+
+.steps {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.message {
+  text-align: center;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
